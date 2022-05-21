@@ -23,7 +23,7 @@ keyboard = [
 ],
 [
  InlineKeyboardButton("LEECH group",url="https://t.me/nexleech")
-]
+],
 [
  InlineKeyboardButton("support",url="https://t.me/OMG_info")
 ]
