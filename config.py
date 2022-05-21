@@ -20,6 +20,6 @@ class Config:
 	
  TOKEN=os.environ.get("BOT_TOKEN",None)
  SOURCE="https://t.me/shado_hackers"
- START_TEXT="Hi [{}](tg://user?id={})\nI am A Forward Tag remover Bot.Send /help To Know What I Can Do \n © @OMG_info leech group @nexleech"
+ START_TEXT=""Hey {}. \n\nWelcome to {} \n\nI  am A Forward Tag remover Bot.Send /help \n\nBy\n © @OMG_info"
  HELP_TEXT="Forward Me A File,Video,Audio,Photo or Anything And \nI will Send You the File Back\n\n`How to Set Caption?`\nReply Caption to a File,Photo,Audio,Media"
 	
