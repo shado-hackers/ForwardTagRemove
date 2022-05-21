@@ -71,7 +71,7 @@ qzl5kjhxrw73rcvr6ska3wzksu2vqsa20s4nt0ty8m
  
 ### Installation (Cloud) 🌩
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Artis7eer/ForwardTagRemoverBot/tree/main)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shado-hackers/ForwardTagRemove/tree/main)
 
 <br/>
 
